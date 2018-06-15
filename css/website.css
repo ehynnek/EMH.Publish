@@ -1,0 +1,35 @@
+body{
+	background-color:#d3d3d3;
+	font-family: Arial;
+	margin:0;
+}
+
+.heading{
+	color:black;
+	margin-left:15px;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	border:none;
+	padding:none;
+}
+
+#title-bar{
+	background-color:#696969;
+	color:;
+	box-sizing:border-box;
+	width:100%;
+}
+
+.link{
+	margin-left:40px;
+	font-size:1.75em;
+	color:696969;
+}
+
+a:visited{color:#696969;}
+a:hover{color:#6495ed;}
+a:link{color:#696969;}
