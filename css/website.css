@@ -4,6 +4,10 @@ body{
 	margin:0;
 }
 
+.search{
+	margin-left:15px; 
+}
+
 .heading{
 	color:black;
 	margin-left:15px;
