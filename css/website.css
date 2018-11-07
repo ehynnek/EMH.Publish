@@ -7,12 +7,29 @@ body{
 .links{line-height:150%;}
 
 .search{
-	margin-left:10px; 
+	margin-left:50px;
 }
 
 .heading{
 	color:black;
 	margin-left:15px;
+}
+
+.footer{
+	color:black;
+	font-size:10px;
+	padding-left:100px;
+	background-color:#696969;
+	box-sizing:content-box;
+	width:100%;
+}
+
+#footer{
+	color:black;
+	font-size:10px;
+	background-color:#696969;
+	box-sizing:content-box;
+	width:100%;
 }
 
 .container{
@@ -34,8 +51,22 @@ body{
 	margin-left:40px;
 	font-size:1.75em;
 	color:696969;
-	line-height:150%;
+	line-height:190%;
 }
+.link2{
+	margin-left:40px;
+	font-size:1.75em;
+	color:696969;
+	line-height:190%;
+	font-weight:bold;
+}
+.thinktankheader{
+	font-size:30px;
+	color:200220220;
+	text-decoration:underline;
+	padding-left:20px;
+}
+
 
 a:visited{color:#696969;}
 a:hover{color:#6495ed;}
