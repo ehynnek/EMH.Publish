@@ -1,0 +1,7 @@
+AuthUserFile /.htpasswd/
+AuthType Basic
+AuthName "Protected Settings Page"
+
+<Files "Class_Schedule.ics">
+  Require valid-user
+</Files>
