@@ -1,6 +1,5 @@
-#+title: Apocalypse Keys
+#+title: Lucida
 
-* Character
 ** Basic Facts
 - Name: Lucida. Ancient Latin name.
 - Pronouns: It/Its, She/Her
